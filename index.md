@@ -23,6 +23,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 
 > The harbor wind had lifted her dark hair, and for a moment Kaz was a boy again, sure that there was magic in the world. 
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093360560147542056/IMG_4144.jpg)
+
 * And lastly, I've done full-scale illustrations too, though not very many! 
 
      (ง •̀_•́)ง *`A shoutout to my AP Art portfolio`* (ง •̀_•́)ง
@@ -46,6 +47,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 
 > (left to right): Darcie, Lise, Jan, and Lee
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361282897428591/D37EE1F8-5680-47D9-A089-30BCD2545145.JPG?width=1544&height=1232)
+
 4. Ships (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ I will accept no judgment...
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348347252854864/IMG_3903.jpg)
