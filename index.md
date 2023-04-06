@@ -50,14 +50,12 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 ---
 
 ## …ᘛ⁐̤ᕐᐷ ♥️ `Curious about my process?`
-Well I have a process video just for you!! 
-![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093365190675935293/IMG_6107.gif)
-```
-多妹是真的。。。
-```
+Well I don't know how to add videos so you'll have to wait.
+
 Ahem.
 As Walt Whitman once said, 
 > ## I CONTAIN MULTITUDES.
+
 
 …ᘛ⁐̤ᕐᐷ
 ---
