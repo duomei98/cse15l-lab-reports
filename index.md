@@ -44,7 +44,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 > (left to right): Lydia, Max, and Zhiming
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361036284919928/IMG_4795.JPG?width=1638&height=1232)
 
-> (left to right): Darcie, Lise, Lee, and Jan
+> (left to right): Darcie, Lise, Jan, and Lee
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361282897428591/D37EE1F8-5680-47D9-A089-30BCD2545145.JPG?width=1544&height=1232)
 4. Ships (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ I will accept no judgment...
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)
