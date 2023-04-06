@@ -1,6 +1,6 @@
 # **°₊·ˈ∗♡ 《ANNAVIA.ART》 ♡∗ˈ‧₊°**
 
-♥️ *Instagram*: [Link](https://www.instagram.com/annavia.art/) ♥
+♥️ Instagram: [Link](https://www.instagram.com/annavia.art/) ♥
 ```
 FOLLOW ME OR ELSE 
 ←～（o ｀▽´ )oΨ
