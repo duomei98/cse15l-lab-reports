@@ -1,18 +1,18 @@
 # **°₊·ˈ∗♡ 《ANNAVIA.ART》 ♡∗ˈ‧₊°**
 
-* ♥️ Instagram*: [Link](https://www.instagram.com/annavia.art/) ♥️
+♥️ *Instagram*: [Link](https://www.instagram.com/annavia.art/) ♥
 ```
 FOLLOW ME OR ELSE 
 ←～（o ｀▽´ )oΨ
 ```
 ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093321228149854320/IMG_3556.jpg)
 
-## ♥️ **Hello, it's me (as Taylor Swift would say)** ヾ(＾∇＾) ♥️
+## ♥️ **Hello, it's me (as Taylor Swift would say)** ヾ(＾∇＾) 
 Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!!
 
 …ᘛ⁐̤ᕐᐷ
 ---
-## ♥️ `《Reasons to follow me》` ♡( •ॢ◡-ॢ)✧˖° ♡ ♥
+## ♥️ `《Reasons to follow me》` ♡( •ॢ◡-ॢ)✧˖° ♡ 
 * I am a great artist! Not to brag or anything, but I *did* get a 5 on my AP Art exam ( ✧≖ ͜ʖ≖)
 * I draw hot dudes! Which, of course, is always a plus (*ps if you know the references I took these images from I love you*)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093343147796480070/IMG_4789.png)
@@ -32,7 +32,7 @@ Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!
   
 …ᘛ⁐̤ᕐᐷ
 ---
-## ♥️`《My favorite things to draw, if you haven't guessed》`♥️
+## ♥️`《My favorite things to draw, if you haven't guessed》`
 1. Real people! 
 * *This is a bit of a recent development, but I've been obsessed with stylizing people from reference photographs so that they're in my style yet still recognizable!*
 2. Cute girls 
