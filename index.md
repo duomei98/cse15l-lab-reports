@@ -7,13 +7,13 @@ FOLLOW ME OR ELSE
 ```
 ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093321228149854320/IMG_3556.jpg)
 
-## Hello, it's me (as Taylor Swift would say) ヾ(＾∇＾)
+##･☪︎·̩͙ Hello, it's me (as Taylor Swift would say) ヾ(＾∇＾)
 Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!!
 
 ---
-**Reasons to follow me ♡( •ॢ◡-ॢ)✧˖° ♡:**
+**･☪︎·̩͙ 《Reasons to follow me》 ♡( •ॢ◡-ॢ)✧˖° ♡:**
 * I am a great artist! Not to brag or anything, but I *did* get a 5 on my AP Art exam ( ✧≖ ͜ʖ≖) (idk what these emojis are either we're having fun here). 
-* I draw hot dudes! Which, of course, is always a plus (ps if you know the references I took these images from I love you)
+* I draw hot dudes! Which, of course, is always a plus *ps if you know the references I took these images from I love you*
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093343147796480070/IMG_4789.png)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093343658188750979/IMG_4784.jpg)
 * Of course, I draw hot women too (ꈍᴗꈍ)
@@ -25,7 +25,7 @@ Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!
   
   This last example is few and far in-between, because in my heart of hearts I will always love drawing people above all else. Backgrounds are absolutely horrible. Hey, I'm not an art major for a reason!! None of you cs people have a right to judge me. 
 ---
-**My favorite things to draw, if you haven't guessed**
+**･☪︎·̩͙ 《My favorite things to draw, if you haven't guessed》**
 1. Real people! 
     *This is a bit of a recent development, but I've been obsessed with stylizing people from reference photographs so that they're in my style yet still recognizable!*
 2. Cute girls 
