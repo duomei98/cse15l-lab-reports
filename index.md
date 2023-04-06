@@ -40,7 +40,6 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 2. Cute girls 
 * *No explanation needed* ε=ε=ε=ε=┏( ￣▽￣)┛
 3. OCS!! 
-4. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361036284919928/IMG_4795.JPG?width=1638&height=1232)
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361282897428591/D37EE1F8-5680-47D9-A089-30BCD2545145.JPG?width=1544&height=1232)
 4. Ships (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ I will accept no judgment...
