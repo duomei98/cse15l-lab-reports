@@ -20,6 +20,7 @@ Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!
 * Of course, I draw pretty girls too (ꈍᴗꈍ)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
 > What, like it's hard?
+
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093360560147542056/IMG_4144.jpg)
 > The harbor wind had lifted her dark hair, and for a moment Kaz was a boy again, sure that there was magic in the world. 
 * And lastly, I've done full-scale illustrations too, though not very many! 
