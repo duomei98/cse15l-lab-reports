@@ -7,8 +7,7 @@ FOLLOW ME OR ELSE
 ```
 ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093321228149854320/IMG_3556.jpg)
 
-> Hello, it's me 
-  (as Taylor Swift would say) ヾ(＾∇＾) 
+## …ᘛ⁐̤ᕐᐷ ♥️ `Hello, it's me (as Taylor Swift would say)` ヾ(＾∇＾) 
 Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!!
 
 ---
@@ -20,7 +19,9 @@ Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093362445579464785/6329DCE4-D9D3-41D5-8709-D12622628F1C.jpg?width=1454&height=1232)
 * Of course, I draw pretty girls too (ꈍᴗꈍ)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
+> What, like it's hard?
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093360560147542056/IMG_4144.jpg)
+> The harbor wind had lifted her dark hair, and for a moment Kaz was a boy again, sure that there was magic in the world. 
 * And lastly, I've done full-scale illustrations too, though not very many! 
     (ง •̀_•́)ง *A shoutout to my AP Art portfolio* (ง •̀_•́)ง
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348713277177987/17CEBFB0-47A0-486F-8D7D-E873C9E687FB.jpg)
