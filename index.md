@@ -15,8 +15,8 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 * I am a great artist! Not to brag or anything, but I *did* get a 5 on my AP Art exam ( ✧≖ ͜ʖ≖)
 * I draw pretty boys! Which, of course, is always a plus (*ps if you know the references I took these images from I love you*)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093343147796480070/IMG_4789.png)
-  ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093343658188750979/IMG_4784.jpg)
-  ![Image](https://media.discordapp.net/attachments/783745953680326656/1093362445579464785/6329DCE4-D9D3-41D5-8709-D12622628F1C.jpg?width=1454&height=1232)
+  ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093370342778621962/IMG_4801.png)
+  ![Image](https://media.discordapp.net/attachments/783745953680326656/1093371484954693772/IMG_4803.png?width=2310&height=1232)
 * Of course, I draw pretty girls too (ꈍᴗꈍ)
 > What, like it's hard?
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
