@@ -37,7 +37,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 ---
 ## …ᘛ⁐̤ᕐᐷ ♥️`《My favorite things to draw, if you haven't guessed》`
 1. Real people! 
-* *This is a bit of a recent development, but I've been obsessed with stylizing people from reference photographs so that they feel personalized yet still recognizable!*
+* *This is a bit of a recent development, but I've been obsessed with stylizing people from reference photographs so that they feel personalized yet still recognizable! (answer to the pretty boys section: it's boys planet. Unfortunately)*
 2. Cute girls 
 * *No explanation needed* ε=ε=ε=ε=┏( ￣▽￣)┛
 3. OCS!! 
