@@ -8,7 +8,7 @@ FOLLOW ME OR ELSE
 ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093321228149854320/IMG_3556.jpg)
 
 ## …ᘛ⁐̤ᕐᐷ ♥️ `Hello, it's me (as Taylor Swift would say)` ヾ(＾∇＾) 
-Welcome to my (very rough and unprofessional) °˖✧ `art portfolio` ✧˖° !!!
+Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖° !!!
 
 ---
 ## …ᘛ⁐̤ᕐᐷ ♥️ `《Reasons to follow me》` ♡( •ॢ◡-ॢ)✧˖° ♡ 
