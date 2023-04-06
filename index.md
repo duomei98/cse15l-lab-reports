@@ -25,10 +25,10 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 > The harbor wind had lifted her dark hair, and for a moment Kaz was a boy again, sure that there was magic in the world. 
 * And lastly, I've done full-scale illustrations too, though not very many! 
 
-(ง •̀_•́)ง *A shoutout to my AP Art portfolio* (ง •̀_•́)ง
+(ง •̀_•́)ง *`A shoutout to my AP Art portfolio`* (ง •̀_•́)ง
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348713277177987/17CEBFB0-47A0-486F-8D7D-E873C9E687FB.jpg)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093356637537964082/IMG_3081.JPG)
-    *Personal art~ (EDG what are you doing here--)* (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ
+`Personal art~` *(EDG what are you doing here--)* 
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093363837262110760/IMG_4626.JPG?width=1642&height=1232)
   
   This last example is few and far in-between, because in my heart of hearts I will always love drawing people above all else. Backgrounds are absolutely horrible. I'm not an art major for a reason... 
@@ -42,7 +42,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 3. OCS!! 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361036284919928/IMG_4795.JPG?width=1638&height=1232)
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361282897428591/D37EE1F8-5680-47D9-A089-30BCD2545145.JPG?width=1544&height=1232)
-4. Ships. I will accept no judgment...
+4. Ships (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ I will accept no judgment...
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348347252854864/IMG_3903.jpg)
 * *No explanation provided* (*ﾟｰﾟ)ゞ 
