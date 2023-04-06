@@ -57,8 +57,9 @@ Well I don't know how to add videos so you'll have to wait.
 
 Ahem.
 As Walt Whitman once said, 
-> ## I CONTAIN MULTITUDES.
-
+```
+I CONTAIN MULTITUDES.
+```
 
 …ᘛ⁐̤ᕐᐷ
 ---
