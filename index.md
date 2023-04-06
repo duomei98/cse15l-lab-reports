@@ -36,10 +36,11 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 ---
 ## …ᘛ⁐̤ᕐᐷ ♥️`《My favorite things to draw, if you haven't guessed》`
 1. Real people! 
-* *This is a bit of a recent development, but I've been obsessed with stylizing people from reference photographs so that they're in my style yet still recognizable!*
+* *This is a bit of a recent development, but I've been obsessed with stylizing people from reference photographs so that they feel personalized yet still recognizable!*
 2. Cute girls 
 * *No explanation needed* ε=ε=ε=ε=┏( ￣▽￣)┛
 3. OCS!! 
+4. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361036284919928/IMG_4795.JPG?width=1638&height=1232)
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361282897428591/D37EE1F8-5680-47D9-A089-30BCD2545145.JPG?width=1544&height=1232)
 4. Ships (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ I will accept no judgment...
