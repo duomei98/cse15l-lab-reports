@@ -28,7 +28,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
      (ง •̀_•́)ง *`A shoutout to my AP Art portfolio`* (ง •̀_•́)ง
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348713277177987/17CEBFB0-47A0-486F-8D7D-E873C9E687FB.jpg)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093356637537964082/IMG_3081.JPG)
-`Personal art~` *(EDG what are you doing here--)* 
+     `Personal art~` *(EDG what are you doing here--)* 
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093363837262110760/IMG_4626.JPG?width=1642&height=1232)
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093364007517311046/IMG_4520.PNG?width=1232&height=1232)
   
