@@ -20,10 +20,10 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 * Of course, I draw pretty girls too (ꈍᴗꈍ)
 > What, like it's hard?
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
-
+>
 > The harbor wind had lifted her dark hair, and for a moment Kaz was a boy again, sure that there was magic in the world. 
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093360560147542056/IMG_4144.jpg)
-
+> 
 * And lastly, I've done full-scale illustrations too, though not very many! 
 
      (ง •̀_•́)ง *`A shoutout to my AP Art portfolio`* (ง •̀_•́)ง
@@ -42,10 +42,10 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 2. Cute girls 
 * *No explanation needed* ε=ε=ε=ε=┏( ￣▽￣)┛
 3. OCS!! 
-> (left to right): Lydia, Max, and Zhiming
+`(left to right): Lydia, Max, and Zhiming`
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361036284919928/IMG_4795.JPG?width=1638&height=1232)
 
-> (left to right): Darcie, Lise, Jan, and Lee
+`(left to right): Darcie, Lise, Jan, and Lee`
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1093361282897428591/D37EE1F8-5680-47D9-A089-30BCD2545145.JPG?width=1544&height=1232)
 
 4. Ships (๑ˊ͈ ॢꇴ ˋ͈)〜♡॰ॱ I will accept no judgment...
