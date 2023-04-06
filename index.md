@@ -13,7 +13,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 ---
 ## …ᘛ⁐̤ᕐᐷ ♥️ `《Reasons to follow me》` ♡( •ॢ◡-ॢ)✧˖° ♡ 
 * I am a great artist! Not to brag or anything, but I *did* get a 5 on my AP Art exam ( ✧≖ ͜ʖ≖)
-* I draw pretty boys! Which, of course, is always a plus (*ps if you know the references I took these images from I love you*)
+* I draw pretty boys! Which, of course, is always a plus (*ps if you know the references I took these images from I love you. And I'm ashamed of you*)
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093373435331231814/IMG_4804.png?width=2392&height=1232)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093370342778621962/IMG_4801.png)
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093371484954693772/IMG_4803.png?width=2310&height=1232)
