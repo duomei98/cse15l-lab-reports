@@ -30,6 +30,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093356637537964082/IMG_3081.JPG)
 `Personal art~` *(EDG what are you doing here--)* 
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093363837262110760/IMG_4626.JPG?width=1642&height=1232)
+  ![Image](https://media.discordapp.net/attachments/783745953680326656/1093364007517311046/IMG_4520.PNG?width=1232&height=1232)
   
   This last example is few and far in-between, because in my heart of hearts I will always love drawing people above all else. Backgrounds are absolutely horrible. I'm not an art major for a reason... 
 
@@ -49,7 +50,7 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
 ---
 
 ## …ᘛ⁐̤ᕐᐷ ♥️ `Curious about my process?`
-Well I have a process video just for you!!
+Well I have a process video just for you!! 
 ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093365190675935293/IMG_6107.gif)
 ```
 多妹是真的。。。
