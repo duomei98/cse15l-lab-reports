@@ -18,11 +18,11 @@ Welcome to my (very unserious and unprofessional) °˖✧ `art portfolio` ✧˖�
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093343658188750979/IMG_4784.jpg)
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093362445579464785/6329DCE4-D9D3-41D5-8709-D12622628F1C.jpg?width=1454&height=1232)
 * Of course, I draw pretty girls too (ꈍᴗꈍ)
-  ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
 > What, like it's hard?
+  ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
 
-  ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093360560147542056/IMG_4144.jpg)
 > The harbor wind had lifted her dark hair, and for a moment Kaz was a boy again, sure that there was magic in the world. 
+  ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093360560147542056/IMG_4144.jpg)
 * And lastly, I've done full-scale illustrations too, though not very many! 
 
 (ง •̀_•́)ง *`A shoutout to my AP Art portfolio`* (ง •̀_•́)ง
