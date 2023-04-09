@@ -21,7 +21,7 @@ I did not need to do this step because I already had VSCode installed from a pre
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094742541611569192/Screen_Shot_2023-04-09_at_2.55.54_PM.png?width=2134&height=1228)
 > Follow the instructions on screen to change your password (should send you an email). 
 
-3. Open VSCode and open a new terminal, using keyboard shortcut `ctrl + shift + ``. 
+3. Open VSCode and open a new terminal, using keyboard shortcut *ctrl + shift + `*.
 4. Type in the command `$ ssh *username*@ieng6.ucsd.edu` with "username" substituted with your user from **Step 1**. 
 5. If this is your first time connecting to the server, you will likely get an authentication message looking like this:
 ```
@@ -29,12 +29,14 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
+
 Type in `yes`.
 6. You will then be prompted to type in a password. Use the password from **Step 2**. 
 7. You will get something like this!! 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094744037405229076/Screen_Shot_2023-04-09_at_3.01.49_PM.png?width=2500&height=888)
+![Image](https://media.discordapp.net/attachments/717565547268669500/1094749809874841620/Screen_Shot_2023-04-09_at_3.24.43_PM.png?width=2476&height=864)
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094720584543379587/IMG_4812.png?width=2520&height=132)
+
 ## …ᘛ⁐̤ᕐᐷ ♥️  《STEP 3》: Trying Some Commands
 
 1. To see the difference between running commands on the remote server versus your personal computer, create a new terminal using `ctrl + shift + ``. This will give you something like this, where the `ssh` is the remote server and `zsh` is your personal computer.
