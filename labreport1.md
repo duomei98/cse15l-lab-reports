@@ -7,15 +7,15 @@
 
 ## …ᘛ⁐̤ᕐᐷ ♥️  《STEP 1》: Installing VSCode
 
-I did not need to do this step because I already had VSCode installed from a previous class. If isntalled correctly, you should have something like this:
+I did not need to do this step because I already had VSCode installed from a previous class. If installed correctly, you should have something like this:
 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094714888347201679/Screen_Shot_2023-04-09_at_1.05.36_PM.png?width=1150&height=1230)
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094720584543379587/IMG_4812.png?width=2520&height=132)
 ## …ᘛ⁐̤ᕐᐷ ♥️  《STEP 2》: Remotely Connecting
 
-1. Find your course-specific CSE15L username using the UCSD Account Look-Up (link: [Link](https://sdacs.ucsd.edu/~icc/index.php)). You should have a username starting with "cs15lsp23" followed by a few letters.
-2. If this is your first time accessing this account, you will need to create a password as well. Use the password change tool (link: [Link](https://password.ucsd.edu/)) and *make sure* you type in your username from **Step 1** from username. 
+1. Find your course-specific CSE15L username using the UCSD Account Look-Up ([Link](https://sdacs.ucsd.edu/~icc/index.php)). You should have a username starting with "cs15lsp23" followed by a few letters.
+2. If this is your first time accessing this account, you will need to create a password as well. Use the password change tool ([Link](https://password.ucsd.edu/)) and *make sure* you type in your username from **Step 1** from username. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094742541611569192/Screen_Shot_2023-04-09_at_2.55.54_PM.png?width=2134&height=1228)
 Follow the instructions on screen to change your password (should send you an email). 
 3. Open VSCode and open a new terminal, using keyboard shortcut `ctrl + shift + ``. 
