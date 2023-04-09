@@ -31,7 +31,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Password: 
 ```
 
-   Type in `yes`.
+> Type in `yes`.
    
 6. You will then be prompted to type in a password. Use the password from **Step 2**. 
 7. You will get something like this!! 
