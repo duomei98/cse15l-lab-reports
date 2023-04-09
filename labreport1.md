@@ -54,6 +54,11 @@ Type in `yes`.
 * `pwd`
 * `mkdir`
 * `cp`
+
+Example Output:
+![Image](https://media.discordapp.net/attachments/783745953680326656/1094764311408291960/Screen_Shot_2023-04-09_at_4.22.07_PM.png?width=2520&height=384)
+![Image](https://media.discordapp.net/attachments/783745953680326656/1094764510071492648/Screen_Shot_2023-04-09_at_4.23.10_PM.png?width=1612&height=432)
+
 4. On your `ssh` server, try running these specific commands: 
 * `cd`
 * `cd ~`
@@ -62,10 +67,7 @@ Type in `yes`.
 * `ls <directory>` where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc (abc is one of the other group members’ username)
 * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
-Example Outputs:
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094764311408291960/Screen_Shot_2023-04-09_at_4.22.07_PM.png?width=2520&height=384)
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094764510071492648/Screen_Shot_2023-04-09_at_4.23.10_PM.png?width=1612&height=432)
-
+   
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
