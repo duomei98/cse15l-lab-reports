@@ -63,8 +63,9 @@ Password:
 * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 ---
+![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
+
 ## …ᘛ⁐̤ᕐᐷ 🍒 Congrats! You've done it! Onto the next week ~ ♡( •ॢ◡-ॢ)✧˖° ♡
 ![Image](https://i.pinimg.com/originals/62/8a/0a/628a0a38a8f0b9b9efa19492f63ea541.png)
    
