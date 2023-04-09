@@ -14,9 +14,9 @@ I did not need to do this step because I already had VSCode installed from a pre
 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094714888347201679/Screen_Shot_2023-04-09_at_1.05.36_PM.png?width=1150&height=1230)
 
+---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
----
 ## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 2》 🍒 Remotely Connecting
 
 1. Find your course-specific CSE15L username using the UCSD Account Look-Up ([Link](https://sdacs.ucsd.edu/~icc/index.php)). You should have a username starting with "cs15lsp23" followed by a few letters.
@@ -40,9 +40,9 @@ Password:
 7. You will get something like this!! 
 ![Image](https://media.discordapp.net/attachments/717565547268669500/1094749809874841620/Screen_Shot_2023-04-09_at_3.24.43_PM.png?width=2476&height=864)
 
+---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
----
 ## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 3》 🍒 Trying Some Commands
 
 1. To see the difference between running commands on the remote server versus your personal computer, create a new terminal using *ctrl + shift + `*. 
