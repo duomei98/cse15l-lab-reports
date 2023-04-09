@@ -7,7 +7,7 @@
 
 ## …ᘛ⁐̤ᕐᐷ ♥️  《STEP 1》: Installing VSCode
 
-*I did not need to do this step because I already had VSCode installed from a previous class. If isntalled correctly, you should have something like this:*
+I did not need to do this step because I already had VSCode installed from a previous class. If isntalled correctly, you should have something like this:
 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094714888347201679/Screen_Shot_2023-04-09_at_1.05.36_PM.png?width=1150&height=1230)
 ---
