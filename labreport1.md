@@ -27,7 +27,8 @@ I did not need to do this step because I already had VSCode installed from a pre
 3. Open VSCode and open a new terminal, using keyboard shortcut *ctrl + shift + `*.
 4. Type in the command `$ ssh *username*@ieng6.ucsd.edu` with "username" substituted with your user from **Step 1**. 
 5. If this is your first time connecting to the server, you will likely get an authentication message looking like this:
-```⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+```
+⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
