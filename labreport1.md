@@ -10,7 +10,7 @@
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 1》 🍒 Installing VSCode
 
-I did not need to do this step because I already had VSCode installed from a previous class. If installed correctly, you should have something like this:
+I did not need to do this step because I already had VSCode installed from a previous class. If you do not have it installed, you can follow the instructions from this link ([Link](https://code.visualstudio.com/download)). If installed correctly, you should have something like this:
 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094714888347201679/Screen_Shot_2023-04-09_at_1.05.36_PM.png?width=1150&height=1230)
 
@@ -25,7 +25,7 @@ I did not need to do this step because I already had VSCode installed from a pre
 > Follow the instructions on screen to change your password (should send you an email). 
 
 3. Open VSCode and open a new terminal, using keyboard shortcut *ctrl + shift + `*.
-4. Type in the command `$ ssh *username*@ieng6.ucsd.edu` with "username" substituted with your user from **Step 1**. 
+4. Type in the command `$ ssh <username>@ieng6.ucsd.edu` with "username" substituted with your user from **Step 1**. 
 5. If this is your first time connecting to the server, you will likely get an authentication message looking like this:
 ```
 ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
@@ -49,11 +49,11 @@ Type in `yes`.
 2. This will give you something like this, where the `ssh` is the remote server and `zsh` is your personal computer.
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094744747375067136/Screen_Shot_2023-04-09_at_3.04.38_PM.png?width=2520&height=554)
 3. Try running some commands on both servers. Examples include: 
-* `cd`
-* `ls`
-* `pwd`
-* `mkdir`
-* `cp`
+* `cd`: the command `cd <path>` switches the current working directory to the given `<path>`
+* `ls`: the command `ls <path>` stands for list and is used to list the files and folders in the given path 
+* `pwd`: stands for "print working directory" and is used to display the current working directory 
+* `mkdir`: allows you to create new directories (_Note: make sure you have permission from the computer you're working on, or else you may get a `permission denied` message!_)
+* `cp`: the command `cp <path1> <path2>` stands for copy and is used to copy the file at `<path1>` and move it to `<path2>`. If `<path2>` does not exist, it first creates that file before proceeding as aforementioned
 
 Example Output:
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094764311408291960/Screen_Shot_2023-04-09_at_4.22.07_PM.png?width=2520&height=384)
