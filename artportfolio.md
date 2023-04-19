@@ -13,7 +13,8 @@ Welcome to my (very casual) °˖✧ `art portfolio` ✧˖° !!!
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348347252854864/IMG_3903.jpg)
   
-
+  ![Image](https://media.discordapp.net/attachments/783745953680326656/1098074037516763167/IMG_4825.jpg?width=1438&height=1236)
+  ![Image](https://media.discordapp.net/attachments/783745953680326656/1098074037118324848/IMG_4865.png?width=1460&height=1236)
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093373435331231814/IMG_4804.png?width=2392&height=1232)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093370342778621962/IMG_4801.png)
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093371484954693772/IMG_4803.png?width=2310&height=1232)
