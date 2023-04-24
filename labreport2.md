@@ -13,6 +13,7 @@
 
 **String Server Code:**
 ![Image](https://media.discordapp.net/attachments/717565547268669500/1099959946801582131/Screen_Shot_2023-04-24_at_12.28.03_AM.png?width=1828&height=1236)
+My StringServer code takes in the command line arguments as a String array. If no port number is given (for example, if we type only `java StringServer` in the command line, the main method prints out a message reminding you to type in a port number because our web server requires a port to run on. Otherwise, it takes the port number and creates a server with that port and using our Handler, which I will discuss in further detail below. 
 * The method that is called in my code is the main method in line 17.
 * The relevant argument to this method is an `int` port number. For example, one command line input is 
 ```
@@ -28,8 +29,12 @@ It creates a url `http://localhost:4567` that represents my StringServer.
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1099960789500170330/Screen_Shot_2023-04-24_at_12.31.22_AM.png?width=1856&height=512)
 2.
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1099961059420426260/Screen_Shot_2023-04-24_at_12.32.29_AM.png?width=1996&height=568)
+> _Note: the urls I entered were `http://localhost:4567/add-message?s=two birds` and `http://localhost:4567/add-message?s=on a feather`. According to my research, because spaces in urls are not allowed they were replaced with `%20`_
+
+I decided to use a helper class Handler, modeling my code off the NumberServer code we worked with in lab. I modified the `handleRequest()` method to still accept an url as a paramter but now initialize a variable `str` that is an empty string. Then, I take the query of the url, which is defined as anything after the `?` (such as `"s=two birds"` in **1**), and concatenate the string after `=` in the url (such as `"two birds"`) to my variable `str`. Finally, I use the `format()` method to display the updated string in my web server. 
 * The method in my code that was called was the `handleRequest()` method in line 6.
-* The relevant argument to this method 
+* The relevant argument to this method is the url of the webserver shown in the two screenshots labeled **1** and **2**. 
+* I did not use fields in my code. 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
