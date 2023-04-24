@@ -56,7 +56,7 @@ I will be addressing the bug in the `reverseInPlace()` method in the file ArrayE
 _Symptom:_ 
 
 Here is the output of running this test. The failed test is the test I wrote above: 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1100134725814866031/Screen_Shot_2023-04-24_at_12.02.31_PM.png?width=2520&height=792)
+![Image](https://media.discordapp.net/attachments/783745953680326656/1100205705056768030/Screen_Shot_2023-04-24_at_4.44.34_PM.png?width=2520&height=1150)
 
 **🍒 Non-Failure Inducing Input: Test and Symptom** 
 
