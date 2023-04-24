@@ -27,6 +27,7 @@ It creates a url `http://localhost:4567` that represents my StringServer.
 
 1. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1099960789500170330/Screen_Shot_2023-04-24_at_12.31.22_AM.png?width=1856&height=512)
+
 2.
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1100131424453017681/Screen_Shot_2023-04-24_at_11.49.24_AM.png?width=1912&height=524)
 > _Note: the urls I entered were `http://localhost:4567/add-message?s=two birds` and `http://localhost:4567/add-message?s=on a wire`. According to my research, because spaces in urls are not allowed they were replaced with `%20`_
