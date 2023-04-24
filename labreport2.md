@@ -42,6 +42,8 @@ I decided to use a helper class Handler, modeling my code off the NumberServer c
 
 I will be addressing the bug in the `reverseInPlace()` method in the file ArrayExamples.java.
 
+**🍒 Failure Inducing Input: Test and Symptom** 
+
 * A failure inducing input includes any input array that has unique values for each index, such as the test I wrote below.
 ```
   @Test
@@ -51,9 +53,12 @@ I will be addressing the bug in the `reverseInPlace()` method in the file ArrayE
     assertArrayEquals(new int[]{2, 1}, input2);
   }
 ```
+_Symptom:_ 
+
 Here is the output of running this test. The failed test is the test I wrote above: 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1100134725814866031/Screen_Shot_2023-04-24_at_12.02.31_PM.png?width=2520&height=792)
-> Symptom
+
+**🍒 Non-Failure Inducing Input: Test and Symptom** 
 
 * An input that doesn't induce a failure is any input that has the same value for corresponding indexes `i` and `input.length - i - 1`, aka indexes the same distance from the front and back of the array.
 ```
@@ -64,10 +69,15 @@ Here is the output of running this test. The failed test is the test I wrote abo
     assertArrayEquals(new int[]{1,1}, input1);
   }
 ```
+_Symptom:_
+
 Here is the output of running this test. Evidently, all tests passed: 
+
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1100135465081909298/Screen_Shot_2023-04-24_at_12.05.29_PM.png?width=2244&height=576)
-> Symptom
-* Before (original):
+
+**🍒 Bugs, Fix, and Explanation** 
+
+_* Before (original):_
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -75,7 +85,7 @@ Here is the output of running this test. Evidently, all tests passed:
     }
   }
   ```
-  * After (fixed):
+_* After (fixed):_
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < (arr.length / 2); i += 1) {
@@ -85,42 +95,21 @@ Here is the output of running this test. Evidently, all tests passed:
     }
   }
 ```
-Explanation of bug:
-The original method was bugged because when you update the value of `arr[i]` to reverse the array, you lost the original value, meaning that you can’t actually reverse the second half of the array. For our `input2 {1,2}`, when `i = 0` our code updates `arr[0]` to `arr[1]`, changing the array to `{2,2}`. Then, for `i = 1`, our code updates `arr[1]` to `arr[0]`, but no index value actually changes because the original value, 1, was lost. Our revision fixes this bug by storing the original array value in a placeholder variable, and also changing the iteration length to only half the array, so that when you iterate through the first half of the array, you are actually reversing the indexes at `arr[i]` and `arr[arr.length - i - 1]`, aka the indexes equidistant from the front / back of the array.
+_Explanation of bug:_
 
+The main issue in the original code is that it creates a mirrored list, aka a list where all indexes the same distance from the front and back of the array, are equal, rather than a reversed list. When you update the value of `arr[i]` to reverse the array, you lose the original value, meaning that you can’t actually reverse the second half of the array. For our `input2 {1,2}`, when `i = 0` our code updates `arr[0]` to `arr[1]`, changing the array to `{2,2}`. Then, for `i = 1`, because the original value, 1, was lost, `arr[1]` updates to the incorrect value of 2.
+
+Our revision fixes this bug by storing the original array value in a `placeholder` variable, and also changing the iteration length to only half the array, so that when you iterate through the first half of the array, you are actually reversing the array values. Let's revisit the the input `{1, 2}`. Now, for the iteration `i = 0`, the `placeholder` variable gets the value 1, and `arr[0]`is updated to the value of index 1, which is 2. `arr[1]` is then updated to our `placeholder` value of 1. The loop ends after one iteration, which is half the length of the array, and we've successfully reversed the array. 
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
-## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 3》 🍒 Trying Some Commands
+## …ᘛ⁐̤ᕐᐷ 🍒 《Part 3》 🍒 
 
-1. To see the difference between running commands on the remote server versus your personal computer, create a new terminal using *ctrl + shift + `*. 
-2. This will give you something like this, where the `ssh` is the remote server and `zsh` is your personal computer.
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094744747375067136/Screen_Shot_2023-04-09_at_3.04.38_PM.png?width=2520&height=554)
-3. Try running some commands on both servers. Examples include: 
-* `cd`: the command `cd <path>` switches the current working directory to the given `<path>`
-* `ls`: the command `ls <path>` stands for list and is used to list the files and folders in the given path 
-* `pwd`: stands for "print working directory" and is used to display the current working directory 
-* `mkdir`: allows you to create new directories (_Note: make sure you have permission from the computer you're working on, or else you may get a `permission denied` message!_)
-* `cp`: the command `cp <path1> <path2>` stands for copy and is used to copy the file at `<path1>` and move it to `<path2>`. If `<path2>` does not exist, it first creates that file before proceeding as aforementioned
+Something I learned in week 2 of lab that I didn't learn before was how to write a web server and change what words / numbers are displayed using methods that I can write in the class Handler. I learned that the Handler class can use methods from the URLHandler class such as `getQuery()` and `getPath()` which returns the respective parts of the url, which you can then use to update what you see in the your webserver. 
 
-Example Output:
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094764311408291960/Screen_Shot_2023-04-09_at_4.22.07_PM.png?width=2520&height=384)
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094764510071492648/Screen_Shot_2023-04-09_at_4.23.10_PM.png?width=1612&height=432)
 
-4. On your `ssh` server, try running these specific commands: 
-* `cd`
-* `cd ~`
-* `ls -lat`
-* `ls -a`
-* `ls <directory>` where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc (abc is one of the other group members’ username)
-* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
-* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
-   
----
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
-
-## …ᘛ⁐̤ᕐᐷ 🍒 Congrats! You've done it! Onto the next week ~ ♡( •ॢ◡-ॢ)✧˖° ♡
+## …ᘛ⁐̤ᕐᐷ 🍒 That was actually kinda fun, wasn't it? Keep up the good work! ~ ♡( •ॢ◡-ॢ)✧˖° ♡
 ![Image](https://i.pinimg.com/originals/62/8a/0a/628a0a38a8f0b9b9efa19492f63ea541.png)
    
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
