@@ -11,7 +11,7 @@
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《PART 1》 🍒 
 
-**String Server Code:**
+🍒 **String Server Code:**
 ![Image](https://media.discordapp.net/attachments/717565547268669500/1099959946801582131/Screen_Shot_2023-04-24_at_12.28.03_AM.png?width=1828&height=1236)
 My StringServer code takes in the command line arguments as a String array. If no port number is given (for example, if we type only `java StringServer` in the command line), the main method reminds you to type in a port number because our web server requires a port to run on. Otherwise, it takes the port number and creates a server with that port and using our Handler, which I will discuss in further detail below. 
 * The method that is called in my code is the main method in line 17.
@@ -23,7 +23,7 @@ java StringServer 4567
 It creates a url `http://localhost:4567` that represents my StringServer.
 * I wrote my code in a way that didn't use fields.
 
-**Using `/add-message`**
+🍒 **Using `/add-message`**
 
 1. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1099960789500170330/Screen_Shot_2023-04-24_at_12.31.22_AM.png?width=1856&height=512)
