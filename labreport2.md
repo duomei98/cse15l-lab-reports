@@ -28,8 +28,8 @@ It creates a url `http://localhost:4567` that represents my StringServer.
 1. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1099960789500170330/Screen_Shot_2023-04-24_at_12.31.22_AM.png?width=1856&height=512)
 2.
-![Image](https://media.discordapp.net/attachments/783745953680326656/1099961059420426260/Screen_Shot_2023-04-24_at_12.32.29_AM.png?width=1996&height=568)
-> _Note: the urls I entered were `http://localhost:4567/add-message?s=two birds` and `http://localhost:4567/add-message?s=on a feather`. According to my research, because spaces in urls are not allowed they were replaced with `%20`_
+![Image](https://media.discordapp.net/attachments/783745953680326656/1100131424453017681/Screen_Shot_2023-04-24_at_11.49.24_AM.png?width=1912&height=524)
+> _Note: the urls I entered were `http://localhost:4567/add-message?s=two birds` and `http://localhost:4567/add-message?s=on a wire`. According to my research, because spaces in urls are not allowed they were replaced with `%20`_
 
 I decided to use a helper class Handler, modeling my code off the NumberServer code we worked with in lab. I modified the `handleRequest()` method to still accept an url as a paramter but now initialize a variable `str` that is an empty string. Then, I take the query of the url, which is defined as anything after the `?` (such as `"s=two birds"` in **1**), and concatenate the string after `=` in the url (such as `"two birds"`) to my variable `str`. Finally, I use the `format()` method to display the updated string in my web server. 
 * The method in my code that was called was the `handleRequest()` method in line 6.
@@ -38,28 +38,56 @@ I decided to use a helper class Handler, modeling my code off the NumberServer c
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
-## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 2》 🍒 Remotely Connecting
+## …ᘛ⁐̤ᕐᐷ 🍒 《PART 2》 🍒 
 
-1. Find your course-specific CSE15L username using the UCSD Account Look-Up ([Link](https://sdacs.ucsd.edu/~icc/index.php)). You should have a username starting with "cs15lsp23" followed by a few letters.
-2. If this is your first time accessing this account, you will need to create a password as well. Use the password change tool ([Link](https://password.ucsd.edu/)) and make sure you type in your username from **Step 1**.
-![Image](https://media.discordapp.net/attachments/783745953680326656/1094742541611569192/Screen_Shot_2023-04-09_at_2.55.54_PM.png?width=2134&height=1228)
-> Follow the instructions on screen to change your password (should send you an email). 
+I will be addressing the bug in the `reverseInPlace()` method in the file ArrayExamples.java.
 
-3. Open VSCode and open a new terminal, using keyboard shortcut *ctrl + shift + `*.
-4. Type in the command `$ ssh <username>@ieng6.ucsd.edu` with "username" substituted with your user from **Step 1**. 
-5. If this is your first time connecting to the server, you will likely get an authentication message looking like this:
+* A failure inducing input includes any input array that has unique values for each index, such as the test I wrote below.
 ```
-⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
-The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
-RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? 
-Password: 
+  @Test
+  public void testReverseInPlaceEvenArray() {
+    int[] input2 = {1, 2};
+    ArrayExamples.reverseInPlace(input2);
+    assertArrayEquals(new int[]{2, 1}, input2);
+  }
 ```
-Type in `yes`.
-   
-6. You will then be prompted to type in a password. Use the password from **Step 2**. 
-7. You will get something like this!! 
-![Image](https://media.discordapp.net/attachments/717565547268669500/1094749809874841620/Screen_Shot_2023-04-09_at_3.24.43_PM.png?width=2476&height=864)
+Here is the output of running this test. The failed test is the test I wrote above: 
+![Image](https://media.discordapp.net/attachments/783745953680326656/1100134725814866031/Screen_Shot_2023-04-24_at_12.02.31_PM.png?width=2520&height=792)
+> Symptom
+
+* An input that doesn't induce a failure is any input that has the same value for corresponding indexes `i` and `input.length - i - 1`, aka indexes the same distance from the front and back of the array.
+```
+  @Test
+  public void testReverseInPlaceDoesNotFail() {
+    int[] input1 = {1, 1};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{1,1}, input1);
+  }
+```
+Here is the output of running this test. Evidently, all tests passed: 
+![Image](https://media.discordapp.net/attachments/783745953680326656/1100135465081909298/Screen_Shot_2023-04-24_at_12.05.29_PM.png?width=2244&height=576)
+> Symptom
+* Before (original):
+```
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+  ```
+  * After (fixed):
+```
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < (arr.length / 2); i += 1) {
+      int placeholder = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = placeholder;
+    }
+  }
+```
+Explanation of bug:
+The original method was bugged because when you update the value of `arr[i]` to reverse the array, you lost the original value, meaning that you can’t actually reverse the second half of the array. For our `input2 {1,2}`, when `i = 0` our code updates `arr[0]` to `arr[1]`, changing the array to `{2,2}`. Then, for `i = 1`, our code updates `arr[1]` to `arr[0]`, but no index value actually changes because the original value, 1, was lost. Our revision fixes this bug by storing the original array value in a placeholder variable, and also changing the iteration length to only half the array, so that when you iterate through the first half of the array, you are actually reversing the indexes at `arr[i]` and `arr[arr.length - i - 1]`, aka the indexes equidistant from the front / back of the array.
+
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
