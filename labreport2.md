@@ -36,6 +36,7 @@ I decided to use a helper class Handler, modeling my code off the NumberServer c
 * The method in my code that was called was the `handleRequest()` method in line 6.
 * The relevant argument to this method is the url of the webserver shown in the two screenshots labeled **1** and **2**. 
 * I did not use fields in my code. 
+
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
