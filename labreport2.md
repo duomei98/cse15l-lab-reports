@@ -77,7 +77,7 @@ Here is the output of running this test. Evidently, all tests passed:
 
 **🍒 Bugs, Fix, and Explanation** 
 
-_* Before (original):_
+_Before (original):_
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -85,7 +85,7 @@ _* Before (original):_
     }
   }
   ```
-_* After (fixed):_
+_After (fixed):_
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < (arr.length / 2); i += 1) {
