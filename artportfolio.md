@@ -13,7 +13,7 @@ _Note: I do not plan to sell any of this exactly. I am working on what I want to
 
   ![Image](https://media.discordapp.net/attachments/1096962502799130644/1096965346050715668/IMG_4853.png?width=864&height=1236)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
-  ![Image](https://media.discordapp.net/attachments/1096962502799130644/1100227783071903744/IMG_4911.jpg?width=946&height=1236)  
+  ![Image](https://media.discordapp.net/attachments/783745953680326656/1100264985281708032/IMG_4912.png?width=946&height=1236)
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)  
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348347252854864/IMG_3903.jpg)  
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093373435331231814/IMG_4804.png?width=2400&height=1236)  
