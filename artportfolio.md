@@ -11,6 +11,8 @@ Welcome to my (very casual) °˖✧ `art portfolio` ✧˖° !!!
 ## …ᘛ⁐̤ᕐᐷ ♥️ 《FINISHED》 ♡( •ॢ◡-ॢ)✧˖° ♡ 
 _Note: I do not plan to sell any of this exactly. I am working on what I want to sell and while some of these pieces may be included, many won't. This is simply to show some of my best work!_
 
+  ![Image](https://media.discordapp.net/attachments/1096962502799130644/1096965346050715668/IMG_4853.png?width=864&height=1236)
+
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
   
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)
@@ -18,8 +20,6 @@ _Note: I do not plan to sell any of this exactly. I am working on what I want to
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348347252854864/IMG_3903.jpg)
   
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1093373435331231814/IMG_4804.png?width=2400&height=1236)
-  
-  ![Image](https://media.discordapp.net/attachments/1096962502799130644/1096965346050715668/IMG_4853.png?width=864&height=1236)
   
   ![Image](https://media.discordapp.net/attachments/783745953680326656/1098074037516763167/IMG_4825.jpg?width=1438&height=1236)
   
