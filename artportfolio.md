@@ -15,6 +15,8 @@ _Note: I do not plan to sell any of this exactly. I am working on what I want to
 
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093344276232024134/IMG_4771.jpg)
   
+  ![Image](https://media.discordapp.net/attachments/1096962502799130644/1100226081321136158/IMG_4909.png?width=946&height=1236)
+  
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348945566109726/IMG_2839.JPG)
   
   ![Image](https://cdn.discordapp.com/attachments/783745953680326656/1093348347252854864/IMG_3903.jpg)
