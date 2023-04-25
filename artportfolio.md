@@ -8,7 +8,7 @@
 Welcome to my (very casual) °˖✧ `art portfolio` ✧˖° !!!
 
 ---
-## …ᘛ⁐̤ᕐᐷ ♥️ 《FINISHED》 ♡( •ॢ◡-ॢ)✧˖° ♡ 
+## …ᘛ⁐̤ᕐᐷ ♥️ 《WORKS》 ♡( •ॢ◡-ॢ)✧˖° ♡ 
 _Note: I do not plan to sell any of this exactly. I am working on what I want to sell and while some of these pieces may be included, many won't. This is simply to show some of my best work!_
 
   ![Image](https://media.discordapp.net/attachments/1096962502799130644/1096965346050715668/IMG_4853.png?width=864&height=1236)
