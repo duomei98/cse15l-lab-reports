@@ -127,16 +127,14 @@ This command allows you to search for something in a file and then save that res
 **🍒 EXAMPLE 2:**
 
 ```
-$ less -x -p "Conclusion" rr191.txt > rr191_Conclusion.txt
-$ cat rr191_Conclusion.txt
+$ less -X -p "Results" *.txt
 ```
 
 _Output:_
 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1106078555965767711/Screen_Shot_2023-05-10_at_9.41.13_PM.png?width=2036&height=880)
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106085101412028486/Screen_Shot_2023-05-10_at_10.07.14_PM.png?width=1252&height=1236)
 
-This command allows you to search for something in a file and then save that result to terminal. This is helpful because it allows you to keep the information even after quitting the `less` window; normally, the terminal clears immediately as soon as you exit `less` and therefore you have to type the command again if you want to see what output you got. 
-
+This command searches through all .txt files and prints each section containing the word "Results" to the terminal. This is very helpful because it allows you to easily keep similar information (such as the results of your experiments) together, and allows you to look at them all at once without continuously scrolling through files. It also only shows information relevant to your search, so your data is concise and easy to look at.  
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
