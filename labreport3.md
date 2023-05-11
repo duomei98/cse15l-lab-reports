@@ -69,7 +69,7 @@ _Output:_
 $ less -i -p "RNA" *.txt
 ```
 
-Similarly, this command looks for the occurences of the word "RNA" in all .txt files. I might use this to account for different spellings of RNA (eg rna, Rna) so that I can still find the information I'm looking for without worrying about case.  
+Similarly, this command looks for the occurrences of the word "RNA" in all .txt files. I might use this to account for different spellings of RNA (eg rna, Rna) so that I can still find the information I'm looking for without worrying about case.  
 
 _Output:_
 
