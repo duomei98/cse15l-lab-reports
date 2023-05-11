@@ -15,6 +15,7 @@ I researched 4 interesting command-line options for the `less` command. Normally
 
 `-p <pattern>`: tells `less` to start at the first occurrence of the pattern in the file (_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/))
 
+
 **🍒 EXAMPLE 1**
 ```
 $ less -p "Result" rr166.txt
