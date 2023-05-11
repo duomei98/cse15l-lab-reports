@@ -66,14 +66,46 @@ _Output:_
 
 **🍒 EXAMPLE 2:**
 ```
-$ less -p "pulmonary disease" rr*.txt
+$ less -i -p "RNA" *.txt
 ```
 
-This command looks for the first occurrence of the words "pulmonary disease" in all .txt files that begin with "rr". This is helpful if I wanted to find information related to pulmonary disease, but I don't remember actually which file I saw it in. 
+Similarly, this command looks for the occurences of the word "RNA" in all .txt files. I might use this to account for different spellings of RNA (eg rna, Rna) so that I can still find the information I'm looking for without worrying about case.  
 
 _Output:_
 
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106069831427563550/Screen_Shot_2023-05-10_at_9.06.33_PM.png?width=1956&height=868)
 
+---
+![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
+
+## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 3: `-i`》 🍒 
+
+`-N`: causes searches to show output with line numbers (_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/))
+
+**🍒 EXAMPLE 1:**
+```
+$ less -N rr74.txt
+```
+
+_Output:_
+
+![Image](<img width="567" alt="Screen Shot 2023-05-10 at 9 11 37 PM" src="https://github.com/duomei98/cse15l-lab-reports/assets/130006361/5dd289a5-2543-4ca8-858e-de256f8491ff">)
+
+
+This command looks for the first occurrence of the phrase "isopropyl alcohol" in the file `rr166.txt` regardless of case. This is useful because in many occasions when you search through a file, you do not care about the capitalization of a word, only its meaning—— for example, if I wanted to know how much isopropyl alcohol I needed to buy to complete this experiment. Having to search multiple times based on capitalization is much more tedious. 
+
+_Output:_
+
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106066155183034418/Screen_Shot_2023-05-10_at_8.51.54_PM.png?width=2132&height=892)
+
+**🍒 EXAMPLE 2:**
+```
+$ less -i -p "RNA" *.txt
+```
+
+Similarly, this command looks for the occurences of the word "RNA" in all .txt files. I might use this to account for different spellings of RNA (eg rna, Rna) so that I can still find the information I'm looking for without worrying about case.  
+
+_Output:_
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
