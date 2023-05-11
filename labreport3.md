@@ -80,32 +80,25 @@ _Output:_
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 3: `-i`》 🍒 
 
-`-N`: causes searches to show output with line numbers (_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/))
+`-J`: displays a status column on the left side of the screen that shows the lines that matched the current search (_Source:_ [Link](https://phoenixnap.com/kb/less-command-in-linux))
 
 **🍒 EXAMPLE 1:**
 ```
-$ less -N rr74.txt
+$ less -J -i -p "insulin" rr191.txt
 ```
 
 _Output:_
 
-![Image](<img width="567" alt="Screen Shot 2023-05-10 at 9 11 37 PM" src="https://github.com/duomei98/cse15l-lab-reports/assets/130006361/5dd289a5-2543-4ca8-858e-de256f8491ff">)
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106074028944396298/Screen_Shot_2023-05-10_at_9.23.13_PM.png?width=2128&height=852)
 
-
-This command looks for the first occurrence of the phrase "isopropyl alcohol" in the file `rr166.txt` regardless of case. This is useful because in many occasions when you search through a file, you do not care about the capitalization of a word, only its meaning—— for example, if I wanted to know how much isopropyl alcohol I needed to buy to complete this experiment. Having to search multiple times based on capitalization is much more tedious. 
-
-_Output:_
-
-![Image](https://media.discordapp.net/attachments/783745953680326656/1106066155183034418/Screen_Shot_2023-05-10_at_8.51.54_PM.png?width=2132&height=892)
+This command marks the lines that match your search—— in my case, lines that contain the phrase "insulin" with any case. This is useful for future reference; I can quickly see which lines are important if I wanted to cite something about insulin. 
 
 **🍒 EXAMPLE 2:**
 ```
 $ less -i -p "RNA" *.txt
 ```
 
-Similarly, this command looks for the occurences of the word "RNA" in all .txt files. I might use this to account for different spellings of RNA (eg rna, Rna) so that I can still find the information I'm looking for without worrying about case.  
 
-_Output:_
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
