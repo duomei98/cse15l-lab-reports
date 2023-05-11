@@ -24,6 +24,7 @@ $ less -p "Result" rr167.txt
 This command looks for the first occurrence of the word "Result" in the file `rr167.txt`. This is useful because if I was doing research on the link between pulmonary disease and smoking (or whatever this file is about) and I needed a reminder as to what the result of the experiment was, I could quickly go to it without having the scroll through the entire file.
 
 _Output:_
+
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1105974956883460148/Screen_Shot_2023-05-10_at_2.49.33_PM.png?width=1888&height=784)
 
 **🍒 EXAMPLE 2:**
