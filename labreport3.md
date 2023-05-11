@@ -78,7 +78,7 @@ _Output:_
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
 
-## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 3: `-i`》 🍒 
+## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 3: `-J`》 🍒 
 
 `-J`: displays a status column on the left side of the screen that shows the lines that matched the current search (_Source:_ [Link](https://phoenixnap.com/kb/less-command-in-linux))
 
@@ -95,9 +95,47 @@ This command marks the lines that match your search—— in my case, lines that
 
 **🍒 EXAMPLE 2:**
 ```
-$ less -i -p "RNA" *.txt
+$ less -J -p "Materials" rr*.txt
 ```
 
+ _Output:_
+ 
+ ![Image](https://media.discordapp.net/attachments/783745953680326656/1106082151792918528/Screen_Shot_2023-05-10_at_9.55.31_PM.png?width=2104&height=868)
+  
+ ![Image](https://media.discordapp.net/attachments/783745953680326656/1106082310165647392/Screen_Shot_2023-05-10_at_9.56.08_PM.png?width=2136&height=872)
+ 
+This command allows you to search through all .txt files starting with "rr" and mark each "Materials" section— therefore providing a fast way to document what materials you would need if you wanted to do the experiments described. 
+
+---
+![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
+
+## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 4: `-X`》 🍒 
+
+`-X`: keeps content on the screen even after quitting (usually, typing 'q' immediately clears the terminal) (_Source:_ [Link](https://phoenixnap.com/kb/less-command-in-linux))
+
+**🍒 EXAMPLE 1:**
+```
+$ less -X -p "Introduction" rr191.txt
+```
+
+_Output:_
+
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106078555965767711/Screen_Shot_2023-05-10_at_9.41.13_PM.png?width=2036&height=880)
+
+This command allows you to search for something in a file and then save that result to terminal. This is helpful because it allows you to keep the information even after quitting the `less` window; normally, the terminal clears immediately as soon as you exit `less` and therefore you have to type the command again if you want to see what output you got. 
+
+**🍒 EXAMPLE 2:**
+
+```
+$ less -x -p "Conclusion" rr191.txt > rr191_Conclusion.txt
+$ cat rr191_Conclusion.txt
+```
+
+_Output:_
+
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106078555965767711/Screen_Shot_2023-05-10_at_9.41.13_PM.png?width=2036&height=880)
+
+This command allows you to search for something in a file and then save that result to terminal. This is helpful because it allows you to keep the information even after quitting the `less` window; normally, the terminal clears immediately as soon as you exit `less` and therefore you have to type the command again if you want to see what output you got. 
 
 
 ---
