@@ -44,7 +44,7 @@ _Output:_
 > Scrolling to the bottom of the file and typing `:n` allows you to go to the next page. I learned this from the website ([Link](https://flaviocopes.com/linux-command-less/#:~:text=In%20this%20case%20the%20behaviour,to%20go%20to%20the%20previous))
 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1106000424445689986/Screen_Shot_2023-05-10_at_4.30.45_PM.png?width=2120&height=668)
-> I continued navigating to the next file until I found one that contained "pulmonary disease." 
+> I continued navigating to the next file until I found one that contained "pulmonary disease." Therefore, rr172.txt is the file we're looking for. 
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
