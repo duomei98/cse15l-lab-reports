@@ -13,9 +13,7 @@ I researched 4 interesting command-line options for the `less` command. Normally
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 1: `-p`》 🍒 
 
-`-p <pattern>`: tells `less` to start at the first occurrence of the pattern in the file 
-
-_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/)
+`-p <pattern>`: tells `less` to start at the first occurrence of the pattern in the file (_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/))
 
 **🍒 EXAMPLE 1**
 ```
