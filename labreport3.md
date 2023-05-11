@@ -18,7 +18,7 @@ I researched 4 interesting command-line options for the `less` command. Normally
 
 **🍒 EXAMPLE 1**
 ```
-$ less -p "Result" rr166.txt
+$ less -p "Result" rr167.txt
 ```
 
 This input looks for the first occurrence of the word "Result" in the file `rr167.txt`. This is useful because if I was doing research on the link between pulmonary disease and smoking (or whatever this file is about) and I needed a reminder as to what the result of the experiment was, I could quickly go to it without having the scroll through the entire file.
