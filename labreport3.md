@@ -16,7 +16,7 @@ I researched 4 interesting command-line options for the `less` command. Normally
 `-p <pattern>`: tells `less` to start at the first occurrence of the pattern in the file (_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/))
 
 
-**🍒 EXAMPLE 1**
+**🍒 EXAMPLE 1:**
 ```
 $ less -p "Result" rr167.txt
 ```
@@ -26,7 +26,7 @@ This command looks for the first occurrence of the word "Result" in the file `rr
 _Output:_
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1105974956883460148/Screen_Shot_2023-05-10_at_2.49.33_PM.png?width=1888&height=784)
 
-**🍒 EXAMPLE 2**
+**🍒 EXAMPLE 2:**
 ```
 $ less -p "pulmonary disease" rr*.txt
 ```
