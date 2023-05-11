@@ -31,7 +31,7 @@ _Output:_
 $ less -p "pulmonary disease" rr*.txt
 ```
 
-This command looks for the first occurrence of the words "pulmonary disease" in all .txt files that begin with "rr". This is helpful if I needed to find information related to pulmonary disease, but I don't remember which file it was in. 
+This command looks for the first occurrence of the words "pulmonary disease" in all .txt files that begin with "rr". This is helpful if I wanted to find information related to pulmonary disease, but I don't remember actually which file I saw it in. 
 
 _Output:_
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1105979818941612032/Screen_Shot_2023-05-10_at_3.08.51_PM.png?width=1052&height=140)
