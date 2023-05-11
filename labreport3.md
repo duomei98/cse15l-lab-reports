@@ -21,7 +21,7 @@ I researched 4 interesting command-line options for the `less` command. Normally
 $ less -p "Result" rr167.txt
 ```
 
-This input looks for the first occurrence of the word "Result" in the file `rr167.txt`. This is useful because if I was doing research on the link between pulmonary disease and smoking (or whatever this file is about) and I needed a reminder as to what the result of the experiment was, I could quickly go to it without having the scroll through the entire file.
+This command looks for the first occurrence of the word "Result" in the file `rr167.txt`. This is useful because if I was doing research on the link between pulmonary disease and smoking (or whatever this file is about) and I needed a reminder as to what the result of the experiment was, I could quickly go to it without having the scroll through the entire file.
 
 _Output:_
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1105974956883460148/Screen_Shot_2023-05-10_at_2.49.33_PM.png?width=1888&height=784)
@@ -31,7 +31,8 @@ _Output:_
 $ less -p "pulmonary disease" rr*.txt
 ```
 
-This input looks for the first occurrence of the words "pulmonary disease" in all .txt files that begin with "rr". This is helpful if I needed to find information related to pulmonary disease, but I don't remember which file it was in. 
+This command looks for the first occurrence of the words "pulmonary disease" in all .txt files that begin with "rr". This is helpful if I needed to find information related to pulmonary disease, but I don't remember which file it was in. 
+
 _Output:_
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1105979818941612032/Screen_Shot_2023-05-10_at_3.08.51_PM.png?width=1052&height=140)
 > `Pattern Not Found (press RETURN)` means that the phrase "pulmonary disease" is not in this file.
