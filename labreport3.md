@@ -46,14 +46,37 @@ _Output:_
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1106000424445689986/Screen_Shot_2023-05-10_at_4.30.45_PM.png?width=2120&height=668)
 > I continued navigating to the next file until I found one that contained "pulmonary disease." 
 
+---
+![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
+
+## …ᘛ⁐̤ᕐᐷ 🍒 《OPTION 2: `-i`》 🍒 
+
+`-i`: causes searches to ignore case (_Source:_ [Link](https://www.geeksforgeeks.org/less-command-linux-examples/))
+
+**🍒 EXAMPLE 1:**
+```
+$ less -i -p "isopropyl alcohol" rr166.txt
+```
+
+This command looks for the first occurrence of the phrase "isopropyl alcohol" in the file `rr166.txt` regardless of case. This is useful because in many occasions when you search through a file, you do not care about the capitalization of a word, only its meaning—— for example, if I wanted to know how much isopropyl alcohol I needed to buy to complete this experiment. Having to search multiple times based on capitalization is much more tedious. 
+
 _Output:_
-![Image](
+
+![Image](https://media.discordapp.net/attachments/783745953680326656/1106066155183034418/Screen_Shot_2023-05-10_at_8.51.54_PM.png?width=2132&height=892)
+
+**🍒 EXAMPLE 2:**
+```
+$ less -p "pulmonary disease" rr*.txt
+```
+
+This command looks for the first occurrence of the words "pulmonary disease" in all .txt files that begin with "rr". This is helpful if I wanted to find information related to pulmonary disease, but I don't remember actually which file I saw it in. 
+
+_Output:_
+
 
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
-
-
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 Onto the next week! ~ ♡( •ॢ◡-ॢ)✧˖° ♡
 ![Image](https://i.pinimg.com/originals/62/8a/0a/628a0a38a8f0b9b9efa19492f63ea541.png)
