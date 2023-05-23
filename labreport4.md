@@ -11,7 +11,7 @@
 ## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 4》 🍒 Log into ieng6
 
 *Keys Pressed:*
-- ssh<up> 
+- ssh `<up>` 
 - typed password
   
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1110370061035778108/Screen_Shot_2023-05-22_at_5.54.06_PM.png?width=1984&height=740)
