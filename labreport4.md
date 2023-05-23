@@ -52,7 +52,7 @@ Once again, I searched through history until I found `java -cp .:lib/hamcrest-co
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 7》 🍒 Edit the code file to fix the failing test
 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1110402834182176840/Screen_Shot_2023-05-22_at_8.04.21_PM.png?width=2520&height=774)
+![Image](https://media.discordapp.net/attachments/783745953680326656/1110420417824436234/Screen_Shot_2023-05-22_at_9.14.15_PM.png?width=2062&height=1234)
 
 *Keys Pressed:*
 
