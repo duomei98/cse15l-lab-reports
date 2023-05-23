@@ -73,10 +73,10 @@ Goes up two lines to the incorrect index. e goes to the end of the word, and we 
 
 *Keys Pressed:*
 
-- `<up>``<up>``<up>``<up>`
+- `<up>` `<up>` `<up>` `<up>`
 
 I pressed up 4 times until I found the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` in my history.
-- `<up>``<up>``<up>``<up>``<enter>`
+- `<up>` `<up>` `<up>` `<up>` `<enter>`
 
 Once again, I searched through history until I found `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`. Now, you can clearly see that the tests succeed.
 
