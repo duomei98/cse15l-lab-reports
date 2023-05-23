@@ -43,7 +43,7 @@ Here, I clone the directory using the ssh url to access lab7.
 - `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<enter>`
 
 I had to press up a lot until I found the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` in my history, but it was still much easier than retyping the whole thing.
-- `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`
+- `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<up>` `<enter>`
 
 Once again, I searched through history until I found `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`. Now, you can clearly see that the second test fails. 
    
