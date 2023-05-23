@@ -62,7 +62,7 @@ Once again, I searched through history until I found `java -cp .:lib/hamcrest-co
 Searches for the word "return" in the file. My goal is to go to the last return in the file, so I typed n four times to go next a maximum of four times (depending on where you start on the file, you might not actually press n  all four times).
 - kk e x i 2 `<esc>` :wq
 
-Goes up two lines to the incorrect index. e goes to the end of the word, and we delete the 2 and replace it with 1 using insert mode. Then, we type `<esc>` to exit insert mode and save the file. 
+Goes up two lines to the incorrect index. e goes to the end of the word, and we delete the 1 and replace it with 2 using insert mode. Then, we type `<esc>` to exit insert mode and save the file. 
 
 ---
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1094753603274686584/IMG_4813.png?width=2520&height=132)
