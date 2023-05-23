@@ -86,7 +86,7 @@ Once again, I searched through history until I found `java -cp .:lib/hamcrest-co
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《STEP 9》 🍒 Commit and push the resulting change to your Github account
 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1110418514038227044/Screen_Shot_2023-05-22_at_9.06.39_PM.png?width=2362&height=1232)
+![Image](https://media.discordapp.net/attachments/783745953680326656/1110421309516677200/Screen_Shot_2023-05-22_at_9.17.46_PM.png?width=2520&height=1226)
 
 *Keys Pressed:*
 
