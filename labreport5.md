@@ -43,6 +43,7 @@ I guess the error was in the line `javac -cp .:lib/hamcrest-core-1.3.jar:lib/jun
 File: ![Link](https://github.com/ucsd-cse15l-f22/list-methods-lab3.git)
 
 Directory Structure:
+
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1115553775176921109/Screen_Shot_2023-06-06_at_1.12.20_AM.png?width=668&height=1116)
 
 Before:
