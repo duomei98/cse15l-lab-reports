@@ -31,7 +31,12 @@ Can you try looking at your current working directory? Are there any files that 
 
 *🍒 Response from Student*
 
-Ohhhhh thank you so much!! I didn't think about that. I added the line `cp -r lib grading-area` to copy the respository into the grading-area before I ran grading-area, and this time I got the output I expected!! I guess the error was in the line `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`. I never really noticed what this command was actually doing because I just used it on autopilot, so I had to do some research. But I see now that you are running a Java command where you try to run the classes that follow the pattern `*.java` and you are specifying the classpath `lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar`. When I open the lib repository, I see both `hamcrest-core-1.3.jar` and `junit-4.13.2.jar`, so I guess not moving lib into grading-area, throws an error because they can't find the class of a path that doesn't exist. 
+Ohhhhh thank you so much!! I didn't think about that. I added the line `cp -r lib grading-area` to copy the respository into the grading-area before I ran grading-area, and this time I got the output I expected!! 
+
+> Screenshot
+![Image](https://media.discordapp.net/attachments/783745953680326656/1115556772640477234/Screen_Shot_2023-06-06_at_1.24.16_AM.png?width=2520&height=454)
+
+I guess the error was in the line `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`. I never really noticed what this command was actually doing because I just used it on autopilot, so I had to do some research. But I see now that you are running a Java command where you try to run the classes that follow the pattern `*.java` and you are specifying the classpath `lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar`. When I open the lib repository, I see both `hamcrest-core-1.3.jar` and `junit-4.13.2.jar`, so I guess not moving lib into grading-area, throws an error because they can't find the class of a path that doesn't exist. 
 
 *🍒 Summary:*
 
