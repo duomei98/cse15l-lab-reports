@@ -12,13 +12,15 @@
 
 *Model EdStem Report*
 
-Hi, I'm working on my personal Macbook, in the VSCode terminal. I'm trying to write a script for the autograder and I'm not sure why I'm getting this error? Here is a screenshot. 
+Hi, I'm working on my personal Macbook, in the VSCode terminal. I'm trying to write a script for the autograder and I'm not sure why I'm getting this error? 
+
+> Here is a screenshot. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1115545026018152498/Screen_Shot_2023-06-06_at_12.37.33_AM.png?width=1802&height=1236)
 
-Here is my code for the Autograder.
+> Here is my code for the Autograder.
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1115547305358147594/Screen_Shot_2023-06-06_at_12.46.38_AM.png?width=1996&height=1236)
 
-And here is my current working directory. 
+> And here is my current working directory. 
 ![Image](https://media.discordapp.net/attachments/783745953680326656/1115553775176921109/Screen_Shot_2023-06-06_at_1.12.20_AM.png?width=668&height=1116)
 
 From the error it looks like there's a problem in Step 4, and running JUnit isn't working properly, because it's giving me a "ClassNotFoundException." I'm not sure why though, I made sure to copy the correct command to run Junit tests for Macs, so that's not the problem. The output I expected was the statement "Your code compiled!" printed and the grader to say "Score: 0" since I'm using a faulty submission. Any help is appreciated!!
