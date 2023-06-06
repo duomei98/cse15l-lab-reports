@@ -122,8 +122,6 @@ Edit needed: Add the line `cp -r lib grading-area` before the line that triggers
 
 ## …ᘛ⁐̤ᕐᐷ 🍒 《PART 2》 🍒 Reflection
 
-![Image](https://media.discordapp.net/attachments/783745953680326656/1110415764873281536/Screen_Shot_2023-05-22_at_8.55.44_PM.png?width=2176&height=452)
-
 I really enjoyed lab, so thanks for the great experience! I think something I learned that I didn't know before was that CS is so so so much easier (and more fun!) when you work with other people. Like it makes sense, but I've never liked asking for help but that was actually just hurting myself. The lab setup where you work on problems with a peer was really useful and conducive to learning, both for cs15 and cs12 (we discussed PAs during breaks). And I increased the amount of friends I had in CS from 1 to 4, which is a 300% increase if you ask me. 
 
 ---
